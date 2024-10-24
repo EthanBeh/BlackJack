@@ -1,0 +1,21 @@
+body {
+    background-image: url("images/table.png");
+    font-family: 'Montserrat';
+    font-weight: bold;
+    color: lightseagreen;
+    text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+}
+button {
+    background-color: goldenrod;
+    margin: 10px;
+    border-radius: 5px;
+    width: 150px;
+    font-weight: bolder;
+}
+#message-el {
+    
+}
